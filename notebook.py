@@ -1,10 +1,22 @@
+# ---
+# jupyter:
+#   jupytext:
+#     text_representation:
+#       extension: .py
+#       format_name: light
+#       format_version: '1.5'
+#       jupytext_version: 1.3.2
+#   kernelspec:
+#     display_name: Python 3
+#     language: python
+#     name: python3
+# ---
+
 # In this notebook we plot the world population and the gross domestic product per country
 
+# + tags=["parameters"]
 year = 2000
-
-# Parameters
-year = 2017
-
+# -
 
 # !pip install plotly
 
